@@ -1,5 +1,5 @@
 // =============================
 // 🚀 KONFIGURASI API GAS
 // =============================
-const GAS_API = "https://script.google.com/macros/s/AKfycbw3N_YuztERbrhmjOs869Zv7dJcXvZWCNLg9xhN3NuVjm_9Fjqc1SuqJ0MmuUxm6zHoeQ/exec";
+const GAS_API = "https://script.google.com/macros/s/AKfycbxYMMDFqa0zesmLQw3ytAS8KUKkeZMScLyo_f09jnx9rURAGIAQRx4GQ8pD2ZlpsI_-Ow/exec";
 
